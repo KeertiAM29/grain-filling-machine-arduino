@@ -14,7 +14,5 @@ A smart machine designed to automatically dispense grains into containers using 
 - IR Sensors
 - Servo/DC Motors
 - Embedded C/C++
-- 
-## 🔍 Future Work
-- LCD display for quantity tracking
-- IoT integration for remote monitoring
+ 
+
